@@ -103,6 +103,25 @@ http://krushnadevsinh999.infinityfreeapp.com/
 
 Note: GitHub Pages does not support PHP, so the live demo is hosted externally.
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](HomePage.jpg)
+
+### ❓ Quiz Page
+![Quiz Page](QuizPage.jpg)
+
+### 📊 Result Page
+![Result Page](ResultPage.jpg)
+
+### 📝 Review Page 1
+![Review Page 1](ReviewPage1.jpg)
+
+### 📝 Review Page 2
+![Review Page 2](ReviewPage2.jpg)
+
+---
+
 ## 👥 Group Member
 - KRUSHNADEVSINH G. VALA
 - 240905090058
