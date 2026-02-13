@@ -94,6 +94,15 @@ quiz/
 - No external libraries.
 - Designed to run without PHP warnings by using `isset()` and safe defaults.
 
+## 🌐 Live Demo
+
+This project is deployed on a PHP-supported hosting platform.
+
+🔗 Live Website:
+http://krushnadevsinh999.infinityfreeapp.com/
+
+Note: GitHub Pages does not support PHP, so the live demo is hosted externally.
+
 ## 👥 Group Member
 - KRUSHNADEVSINH G. VALA
 - 240905090058
