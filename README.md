@@ -1,6 +1,3 @@
-# php-quiz-app
-A simple web-based Quiz Application built using PHP that demonstrates core PHP concepts like arrays, loops, conditional statements, and form handling.
-
 # PHP Quiz Web Application (Core PHP)
 
 A clean, session-based quiz web application built with **Core PHP + HTML5 + CSS3**.
